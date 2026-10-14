@@ -76,6 +76,7 @@ VistaPrint decided to switch to Agile practices with a focus on decreasing proje
 </details>
 <details><summary>Implementation</summary> 
 
+
 ### What are the 4 core values of Agile?
 
 The Agile Manifesto outlines 4 Core Values and 12 Guiding Principles which serve as a North Star for any team adopting an Agile methodology. 
@@ -103,11 +104,11 @@ The 4 Core Values of Agile are:
   - The user story follows the general format "As a *user* I want to *functionality* so that *motivation.*
     - Example: As a manager, I want to be able to understand my team members' progress, so I can better report our success and failures. 
 - Sprints 
-  - Sprints are a short iteration, usually between one to three weeks to complete, where teams work on tasks determined in the sprint planning meeting. As you move forward, the idea is to continuously repeat these sprints until your product is feature ready. 
+  - Sprints are a short iteration, usually between one to four weeks to complete, where teams work on tasks determined in the sprint planning meeting. As you move forward, the idea is to continuously repeat these sprints until your product is feature ready. 
   - Once the sprint is over, you review the product see what is and isn’t working, make adjustments, and begin another sprint to improve the product or service.
   - Sprints are implemented in the Agile framework Scrum but not in some other frameworks like Kanban.
 - Stand-up meetings 
-  - Daily stand-up meetings (under 10 minutes), also known as “daily Scrum meetings,” are a great way to ensure everyone is on track and informed. 
+  - Daily stand-up meetings (under 15 minutes), also known as “daily Scrum meetings,” are a great way to ensure everyone is on track and informed. 
   - These daily interactions are known as “stand up” because the participants are required to stay standing, helping to keep the meetings short and to the point.
 - Agile board
   - An Agile board helps your team track the progress of your project. 
