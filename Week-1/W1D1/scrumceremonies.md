@@ -28,7 +28,7 @@ These four Scrum ceremonies form the backbone of the Scrum methodology. Proper p
 ### Sprint planning
 If your team starts sprinting without proper planning, everyone will end up running in different directions. The first Scrum ceremony—sprint planning—creates a road map for the upcoming product development sprint.
 
-The sprint planning session doesn’t have to be time-consuming; an hour or two should be enough to get everyone on the same page for a one- or two-week sprint. The Scrum team, the product owner, and the Scrum Master should be present at the planning session.
+The sprint planning session doesn’t have to be time-consuming; an hour or two should be enough to get everyone on the same page for a one- or two-week sprint. For sprints lasting longer than two weeks, additional time may be required for planning. The Scrum team, the product owner, and the Scrum Master should be present at the planning session.
 
 During the sprint planning session, the team consults the backlog, which is a list of all desired features and bug fixes that the team can select from as they determine what to accomplish during the sprint.
 
